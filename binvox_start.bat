@@ -1,0 +1,1 @@
+binvox -rotz -d 20 -cb WoodenChessKnight.obj

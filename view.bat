@@ -1,0 +1,1 @@
+viewvox WoodenChessKnight.binvox
