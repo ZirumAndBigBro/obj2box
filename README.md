@@ -19,7 +19,6 @@ https://archive3d.net/
 5. copy coordinates from result.txt and put it in \AC-Game\data\static_data\spawns\(Npcs or gather)\New\location.xml file.
 
 Note: large 3D models generates a lot of objects. Be sure your server has enough RAM.
-Note2: this programs are not optimized for Aion, means the in game constuctions are filled with unnecessary objects. 
 
 Result see Example_obj2box.jpg
 
