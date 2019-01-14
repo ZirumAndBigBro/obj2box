@@ -23,4 +23,5 @@ Note: large 3D models generates a lot of objects. Be sure your server has enough
 Result see Example_obj2box.jpg
 
 and Youtube
-https://youtu.be/jBNNru535CQ
+https://youtu.be/jBNNru535CQ horse 20 boxes high
+https://youtu.be/tGaiiK2lr9Y horse 40 boxes high
