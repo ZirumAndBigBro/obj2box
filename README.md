@@ -24,4 +24,5 @@ Result see Example_obj2box.jpg
 
 and Youtube
 https://youtu.be/jBNNru535CQ horse 20 boxes high
-https://youtu.be/tGaiiK2lr9Y horse 40 boxes high
+
+https://youtu.be/tGaiiK2lr9Y horse 40 boxes high (if you need coordinates https://yadi.sk/i/oMJAl9ptUZFd_A)
